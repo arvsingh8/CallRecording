@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AudioRecorder</string>
-    <string name="start_record_button">Start Audio Record</string>
-    <string name="stop_record_button">Stop Audio Record</string>
+    <string name="app_name">CallRecorder</string>
+    <string name="start_record_button">Start Call Recording</string>
+    <string name="stop_record_button">Stop Call Recording</string>
 </resources>
